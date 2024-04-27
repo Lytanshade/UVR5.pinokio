@@ -1,3 +1,11 @@
+A Pinochio port from [Huggingface Spaces](https://huggingface.co/spaces/Eddycrack864/UVR5)
+
+Cross-platform GPU enabled.
+
+[Original project](https://github.com/Anjok07/ultimatevocalremovergui) README follows:
+
+
+
 # Ultimate Vocal Remover GUI v5.6
 <img src="https://raw.githubusercontent.com/Anjok07/ultimatevocalremovergui/master/gui_data/img/UVR_v5.6.png?raw=true" />
 
